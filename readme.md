@@ -1,6 +1,6 @@
 # Folder organisers
 
-// Required: Define path before running
+*Required*: Define path before running
 
 ## 1) new_folder
 
